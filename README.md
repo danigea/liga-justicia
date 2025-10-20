@@ -26,3 +26,12 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ![Github Logo](https://avatars.githubusercontent.com/u/583231?v=4)
 
 **Esto** es un _texto_
+
+Markdowntutorial.com
+
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+
+
